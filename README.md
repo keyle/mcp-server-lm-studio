@@ -2,7 +2,9 @@
 
 Go MCP stdio server for LM Studio that searches the web and fetches readable text or page links from public internet URLs.
 
-Tested on macOS Sequoia with Gemma-4-e4b, works nicely. Code thrown by GPT 5.5 codex.
+Tested on macOS Sequoia with `Gemma 4 E4B`, works nicely for general info. However I recommend `Qwen3.5 9b` for more in depths results. 
+
+Coding assisted by GPT 5.5 codex.
 
 Requires Go 1.26. MIT licensed.
 
