@@ -4,7 +4,7 @@ Go MCP stdio server for LM Studio that searches the web and fetches readable tex
 
 Tested on macOS Sequoia. Supplemented by GPT 5.5 codex.
 
-Go 1.26.2.
+Go 1.26.
 
 MIT licensed.
 
